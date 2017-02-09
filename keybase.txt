@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/truenite
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://truenite.me
+  * I am truenite (https://keybase.io/truenite) on keybase.
+  * I have a public key with fingerprint 14BA 2662 166C 600B 5DFD  ECA0 3E7F 1AEB EC6B A603
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e2dfee9ab72adb428afe25b5f257f9325f43da166fb53057d4ce50edc9233e430a",
+            "fingerprint": "14ba2662166c600b5dfdeca03e7f1aebec6ba603",
+            "host": "keybase.io",
+            "key_id": "3e7f1aebec6ba603",
+            "kid": "0101e2dfee9ab72adb428afe25b5f257f9325f43da166fb53057d4ce50edc9233e430a",
+            "uid": "5184bf5151a8c1c1d680a797417fff19",
+            "username": "truenite"
+        },
+        "service": {
+            "hostname": "truenite.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486603141,
+    "expire_in": 157680000,
+    "prev": "17b5c5e9dcbca6aa15776aa97e21d86038f73316a27b7fc48264cfde7158825d",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJdSBRRFN7dSmnpD1yrh4qah2BrW+bOzJ2Z3SgS+lFCgsQKKpZ7Z+7d
+hm13pp1ZTc2osBRSSyiEiooIiyJLg3qwP1tD+6cSKkzC7CXMwEowguqO1Ev02H05
+nHO/77vfOfd0TZ3g8Xs3HSwtTdQ/HfY+7Dya8Ww6nt1fxWFTr+CiVVyCjAeyXSe2
+E0sYOhfleMADIuiUkAjCioB0LAkqokSAGFIBKjQiCpBKoo6ALFMMRR4quqQRyBNd
+iwiiSCSRR1yIo0YqTtJW2kg5TBZIGAmyLDCSJvM8hjrViYZ4kSgUIIKJJmMk8yIj
+bjNtl8HMYWSTsGGyGkti4/b+gf/PvjPjchCoEqYQQIBUDWhAl1UeKRFFAgqlFERc
+oE3SKZQkDO2kMyRlOISrDnGsWmZoxB2s28lfiDDLQpyVNh1TM7ezi22OY0VdnlNh
+ucBygmO/JWLYSOlsioxQRtK2Yaa4KGBIzTFcTSCpMpsAkECIIzstI01ihouACvPK
+jvsMKXNnr2CoQRLRNawhGSGGUFiIKEQAusokVKqIIpCRoGCFapIqyJLGvkcBUFUF
+qHNuUztSJheVmE0UZ5K2EU8hJ5NmHd+9s2Wix+v35Ezyse064PFPnvFn5+pe5v4s
+LugrWPvie1H/8445ydqWYM1Q/4JAc9GV3Tm9+U0t10eE46cKy7+UaFdf33x2vrt1
+3qK5lfXtG/Y8uB32qY0nTusLa7ID1Q1rnlz76llReCye+y1ojNpNxU8+NM3yVhQH
+ApN9izmKB4ZCNb2xkke5343p54YOf/y5vBDuu//yzbTWtoDP+lh0D67OUwfzH9Y3
+bBhtaV/849PYDGPWhNm3B7vrVlaOnewYLmmP5tyYe2FK3+PVM4Ov60403jx7aklL
+74JVwfWXm+1s7eZbK7hE5yVJEI60vejJJl9t7No6kKTvC/yV696e65w+svddgzF/
+10V5EjpkWWeW5i2zm8KZzz1PfwHUF0Vx
+=oC/S
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/truenite
+
+==================================================================
